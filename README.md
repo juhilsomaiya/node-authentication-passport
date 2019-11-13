@@ -34,4 +34,4 @@ Get MongoDB server by the steps below:
       
 After successful completion, please try to run the index.js on node server and you'll get the html file on specified port. Use credentials as we stored in db in order to work with it. 
 
-Clone it, Start it.
+Don't forget to Star and Fork the repo. :)
