@@ -1,5 +1,5 @@
 # node-authentication-passport
-Simple Authentication Demo Using Node.js, Passport.js and MongoDB
+This repository contains a simple demo of Authentication with username and password. User needs to supply username and password and if the credentials are correct then user will be redirected to the success page else error page
 
 Please make sure you have installed following items inorder to use the demo.
 
